@@ -1,0 +1,7 @@
+.card.card-primary.col-lg-4 {
+    padding: 0;
+}
+
+.card-footer {
+    background-color: unset;
+}
